@@ -4,7 +4,7 @@
   "description": "iNotebook - Your notebook on the cloud",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app"
+    "dev": "node app"
   },
   "author": "aksh desai",
   "license": "ISC",
